@@ -28,3 +28,4 @@ GO
 2) In "appsettings.json" file add "DefaultConnection" details for "Data Source' and "Initial Catalog" details for your database 
 3) run Manage NuGet packages
 4)  Core 8 version is used
+5)  Added swagger for testing 
